@@ -263,5 +263,4 @@ Documenting a data analysis project using GitHub Markdown.
 ⭐ Conclusion
 
 This project provides hands-on experience with Microsoft Excel for product data exploration and analysis. By combining numerical functions, conditional formulas, and text functions, the project demonstrates how raw product information can be organized and transformed into meaningful insights.
-
-This project provides hands-on experience with Microsoft Excel for product data exploration and analysis. By combining numerical functions, conditional formulas, and text functions, the project demonstrates how raw product information can be organized and transformed into meaningful insights.
+information can be organized and transformed into meaningful insights.
